@@ -1,0 +1,9 @@
+bypass-oitc-restrictions: "silvenya.bypassoitc"
+no-drop-msg: "&7Vous n'avez pas la permission pour drop des items."
+killed-msg: "&5%DEAD_PLAYER% &8a été tué par &5%KILLER%"
+
+spawn:
+  world: "world"
+  x: -219
+  y: 80
+  z: 204
